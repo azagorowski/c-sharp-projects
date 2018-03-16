@@ -1,2 +1,2 @@
-# c-sharp-projects
-Exercises from studies, courses, tutorials and own creation.
+
+Login system with registration form connected to database built in PHP & MySQL based on "Pasja Informatyki" course.
