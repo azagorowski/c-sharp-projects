@@ -31,13 +31,13 @@
 	
 	Lorem ipsum <br /> <br />
 	
-	<a href="rejestracja.php">Rejestracja - załóż darmowe konto!</a>
+	<a href="rejestracja.php">Registration - create your game account!</a>
 	<br /><br />
 	
 	<form action="zaloguj.php" method="post">
 		
-		Login: <br /> <input type="text" name="login" /> <br />
-		Hasło: <br /> <input type="password" name="haslo" /> <br /> <br />
+		Nickname: <br /> <input type="text" name="login" /> <br />
+		Password: <br /> <input type="password" name="haslo" /> <br /> <br />
 		<input type="submit" value="Zaloguj się" />
 		
 	</form>
