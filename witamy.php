@@ -27,15 +27,15 @@
 	<!-- general CSS -->
 	<link rel="stylesheet" href="style.css" type="text/css" />
 
-    <title>Osadnicy - gra przeglądarkowa</title>
+    <title>Strategy game</title>
   </head>
   <body>
 	<section>
-    <h1>Osadnicy</h1>
+    <h1>Strategy game</h1>
 	
-	Dziękujemy za rejestracje w serwisie! Możesz już zalogować się na swoje konto<br /> <br />
+	Thank you for registration! You can sign in your account./<br /> <br />
 	
-	<a href="index.php">Zaloguj się na swoje konto!</a>
+	<a href="index.php">Sign in!</a>
 	<br /><br />
 	
 	</section>
