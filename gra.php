@@ -23,18 +23,18 @@
 	<!-- general CSS -->
 	<link rel="stylesheet" href="style.css" type="text/css" />
 
-    <title>Osadnicy - gra przeglądarkowa</title>
+    <title>Strategy game</title>
   </head>
   <body>
 	<?php
 	
-		echo "<p>Witaj ".$_SESSION['user'].' ![ <a href="logout.php">Wyloguj się!</a>]</p>';
-		echo "<p><b>Drewno</b>: ".$_SESSION['drewno'];
-		echo " | <b>Kamień</b>: ".$_SESSION['kamien'];
-		echo " | <b>Zboże</b>: ".$_SESSION['zboze']."</p>";
+		echo "<p>Hello ".$_SESSION['user'].' ![ <a href="logout.php">Log out!</a>]</p>';
+		echo "<p><b>Wood</b>: ".$_SESSION['drewno'];
+		echo " | <b>Stone</b>: ".$_SESSION['kamien'];
+		echo " | <b>Wheat</b>: ".$_SESSION['zboze']."</p>";
 		
 		echo "<p><b>E-mail</b>: ".$_SESSION['email'];
-		echo "<br /><b>Dni premium</b>: ".$_SESSION['dnipremium']."</p>";
+		echo "<br /><b>Premium [days]</b>: ".$_SESSION['dnipremium']."</p>";
 	
 	?>
 	
