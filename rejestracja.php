@@ -150,7 +150,7 @@
 	<!-- general CSS -->
 	<link rel="stylesheet" href="style.css" type="text/css" />
 
-    <title>Osadnicy - zalóż darmowe konto!</title>
+    <title>Strategy game - registration<</title>
 	
 	<script src='https://www.google.com/recaptcha/api.js'></script>
   </head>
