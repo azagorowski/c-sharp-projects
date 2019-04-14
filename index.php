@@ -26,19 +26,17 @@
     <title>Browser Game</title>
   </head>
   <body>
-	<section>
+	<section id="S1">
     <h1>Strategy game</h1>
 	
-	Lorem ipsum <br /> <br />
-	
-	<a href="rejestracja.php">Registration - create your game account!</a>
+	<a href="rejestracja.php">Registration - create free account</a>
 	<br /><br />
 	
 	<form action="zaloguj.php" method="post">
 		
-		Nickname: <br /> <input type="text" name="login" /> <br />
+		Login: <br /> <input type="text" name="login" /> <br />
 		Password: <br /> <input type="password" name="haslo" /> <br /> <br />
-		<input type="submit" value="Zaloguj się" />
+		<input type="submit" value="Log in" />
 		
 	</form>
 	
