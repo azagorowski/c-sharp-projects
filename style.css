@@ -5,6 +5,11 @@ body
 	color: #330000;
 }
 
+section
+{
+	padding: 100px;
+}
+
 #S1
 {
 	padding: 100px;
