@@ -46,14 +46,14 @@
 					$rezultat->free_result();
 					header('Location: gra.php');
 				} else {
-					$_SESSION['blad'] = '<span style="color:red">Nieprawidłowy login lub hasło!</span>';
+					$_SESSION['blad'] = '<span style="color:red">Invalid login or password!</span>';
 					header('Location: index.php');
 				}
 				
 				
 			} else {
 				
-				$_SESSION['blad'] = '<span style="color:red">Nieprawidłowy login lub hasło!</span>';
+				$_SESSION['blad'] = '<span style="color:red">Invalid login or password!</span>';
 				header('Location: index.php');
 				
 			}
